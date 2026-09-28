@@ -1,14 +1,14 @@
 metadata:
-  last_updated: '2026-09-21 03:38:23'
+  last_updated: '2026-09-28 04:00:01'
 papers:
   hv9vhhAAAAAJ:u5HHmVD_uO8C:
     title: 'Stepwise Feature Fusion: Local Guides Global'
     year: '2022'
-    citations: 453
+    citations: 457
   hv9vhhAAAAAJ:IjCSPb-OGe4C:
     title: 'DuAT: Dual-aggregation transformer network for medical image segmentation'
     year: '2023'
-    citations: 356
+    citations: 362
   hv9vhhAAAAAJ:u-x6o8ySG0sC:
     title: "Automatic detection of A\u2010line in lung ultrasound images using deep\
       \ learning and image processing"
@@ -18,12 +18,12 @@ papers:
     title: Atrial septal defect detection in children based on ultrasound video using
       multiple instances learning
     year: '2024'
-    citations: 29
+    citations: 30
   hv9vhhAAAAAJ:fQNAKQ3IYiAC:
     title: Automated measurement of optic nerve sheath diameter using ocular ultrasound
       video
     year: '2026'
-    citations: 5
+    citations: 6
   hv9vhhAAAAAJ:Se3iqnhoufwC:
     title: Audio-Visual Separation with Hierarchical Fusion and Representation Alignment
     year: '2025'
@@ -37,6 +37,11 @@ papers:
     title: Revisit the open nature of open vocabulary segmentation
     year: '2025'
     citations: 1
+  hv9vhhAAAAAJ:EsEWqaRxkBgC:
+    title: 'TIB: Sample-wise Tempered Information Bottleneck for Multimodal Attribution
+      beyond Alignment Assumption'
+    year: '2026'
+    citations: 0
   hv9vhhAAAAAJ:UebtZRa9Y70C:
     title: Structure-Aware Feature Rectification with Region Adjacency Graphs for
       Training-free Open-Vocabulary Semantic Segmentation
